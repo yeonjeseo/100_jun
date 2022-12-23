@@ -15,6 +15,7 @@ A
  */
 
 // const input = require('fs').readFileSync('/dev/stdin').toString().trim().split('\n').map(el => parseInt(el));
+
 const input = [100];
 const [score] = input;
 console.log(
