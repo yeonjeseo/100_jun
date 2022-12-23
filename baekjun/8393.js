@@ -13,3 +13,4 @@
  * 예제 출력 1
  * 6
  */
+console.log(input * (input + 1) / 2)
